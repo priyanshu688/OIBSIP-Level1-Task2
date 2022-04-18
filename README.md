@@ -6,5 +6,5 @@ Technologies used to create this Personal Portfolio Website -
     
      ▪ HTML5
      ▪ CSS3
-     ▪ Bootstrap 4
+     ▪ Bootstrap
      ▪ JavaScript
