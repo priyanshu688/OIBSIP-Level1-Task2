@@ -2,7 +2,7 @@
 
 This is the Task-2 of Level-1 of the Oasis Infobyte Internship. Here In this task, Personal Portfolio Website was created using Tech-Stack HTML, CSS and JAVASCRIPT. This is just a one page website. The website is responsive for all the devices.
 
-Technologies used to create this Personal Portfolio Website -
+Technologies used to create this Personal Portfolio Website :-
     
      ▪ HTML5
      ▪ CSS3
